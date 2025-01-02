@@ -1,0 +1,15 @@
+# ninja log v6
+2	46	7575215725807634	CMakeFiles/Sudoku.dir/main.cpp.obj	416aecf859c5e6ff
+47	124	7575215726250445	Sudoku.exe	471d6f8f7575fbc9
+4	56	7575277992252640	CMakeFiles/Sudoku.dir/main.cpp.obj	416aecf859c5e6ff
+56	124	7575277992780919	Sudoku.exe	471d6f8f7575fbc9
+3	51	7575278368433801	CMakeFiles/Sudoku.dir/main.cpp.obj	416aecf859c5e6ff
+51	105	7575278368912341	Sudoku.exe	471d6f8f7575fbc9
+3	52	7575279039793391	CMakeFiles/Sudoku.dir/main.cpp.obj	416aecf859c5e6ff
+52	108	7575279040280401	Sudoku.exe	471d6f8f7575fbc9
+4	53	7575280381236218	CMakeFiles/Sudoku.dir/main.cpp.obj	416aecf859c5e6ff
+53	110	7575280381732524	Sudoku.exe	471d6f8f7575fbc9
+3	54	7575280585545556	CMakeFiles/Sudoku.dir/main.cpp.obj	416aecf859c5e6ff
+54	112	7575280586050997	Sudoku.exe	471d6f8f7575fbc9
+3	50	7575282645752002	CMakeFiles/Sudoku.dir/main.cpp.obj	416aecf859c5e6ff
+50	107	7575282646215821	Sudoku.exe	471d6f8f7575fbc9
